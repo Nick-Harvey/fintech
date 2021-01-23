@@ -1,0 +1,5 @@
+
+
+## News Scraper 
+This app will fetch all news articles related to a stock ticker listed in `.pach_screener/constituents.csv`. 
+
